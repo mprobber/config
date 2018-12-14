@@ -1,0 +1,15 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "repository": "git@github.com:mprobber/config.git",
+  "author": "Michael Probber <michael@probber.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "@babel/plugin-transform-flow-strip-types": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
