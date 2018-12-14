@@ -1,5 +1,5 @@
 {
-  "name": "config",
+  "name": "@mprobber/config",
   "version": "1.0.0",
   "repository": "git@github.com:mprobber/config.git",
   "author": "Michael Probber <michael@probber.com>",
